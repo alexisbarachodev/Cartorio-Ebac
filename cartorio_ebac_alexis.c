@@ -5,7 +5,7 @@
 
 int registrar() //Função responsável por cadastrar os usuários no sistema
 {
-	setlocale(LC_ALL, "Portuguese");
+	setlocale(LC_ALL, "Portuguese_Brazil");
 	
 	//Início da criação de variáveis/string
 	char arquivo[40];
